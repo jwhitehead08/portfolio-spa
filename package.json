@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-spa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwhitehead08/portfolio-spa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwhitehead08/portfolio-spa/issues"
+  },
+  "homepage": "https://github.com/jwhitehead08/portfolio-spa#readme",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2",
+    "react-materialize": "^3.10.0"
+  }
+}
